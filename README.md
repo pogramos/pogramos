@@ -1,6 +1,6 @@
 
 <div style="display: inline-block;">
-  <img align="left" height="117em" src="https://cdn.discordapp.com/attachments/870177767881338923/889246708268167268/guilherme_ramos.png"/>
+  <img align="left" height="110em" src="https://cdn.discordapp.com/attachments/870177767881338923/889246708268167268/guilherme_ramos.png"/>
 </div>
 
 ## Sup!
