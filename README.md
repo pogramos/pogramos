@@ -26,15 +26,6 @@
   <a href="mailto:contatopogrmaos@gmail.com">
     <img src="https://img.shields.io/badge/_-contato-white?style=flat&logo=gmail">
   </a>
-  <a href="https://instagram.com/pogramos">
-    <img src="https://img.shields.io/badge/_-instagram-white?style=flat&logo=instagram">
-  </a>
-  <a href="https://twitch.tv/pogramos">
-    <img src="https://img.shields.io/badge/_-twitch-white?style=flat&logo=twitch">
-  </a>
-  <a href="https://discord.gg/DNtVcS6">
-    <img src="https://img.shields.io/badge/_-discord-lightgrey?style=flat&logo=discord">
-  </a>
   <a href="https://www.linkedin.com/in/guilhermehor/">
     <img src="https://img.shields.io/badge/_-linkedin-blue?style=flat&logo=linkedin">
   </a>
